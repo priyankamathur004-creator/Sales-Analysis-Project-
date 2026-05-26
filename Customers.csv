@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,Gender,City,SignupDate
+1,Amit,Shah,Male,Mumbai,10-02-2023
+2,Neha,Patel,Female,Pune,12-05-2023
+3,Raj,Mehta,Male,Delhi,05-01-2024
+4,Sneha,Iyer,Female,Chennai,18-11-2023
+5,Vikram,Rao,Male,Bangalore,22-03-2024
+6,Priya,Nair,Female,Mumbai,30-08-2023
+7,Karan,Malhotra,Male,Delhi,14-06-2024
+8,Anjali,Verma,Female,Pune,25-09-2023
+9,Rohit,Sen,Male,Kolkata,17-02-2024
+10,Meera,Joshi,Female,Ahmedabad,09-07-2023
